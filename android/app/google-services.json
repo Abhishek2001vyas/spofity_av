@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "347341871487",
+    "project_id": "scrren-d7378",
+    "storage_bucket": "scrren-d7378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347341871487:android:3baad287dffa7f24c2a24a",
+        "android_client_info": {
+          "package_name": "com.example.spofity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347341871487-8dveoc944mo42hg9hsa0sa08uihp1e2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spofity",
+            "certificate_hash": "10d0a19e8122321de2ae44463ac08deebdeba0a3"
+          }
+        },
+        {
+          "client_id": "347341871487-g650j6cqd5mqublmsmoupan4gm5i5i3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsLM4UgRzjAHGCwJjJ2V_xwQjTxozPg88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347341871487-8t0v0oj5ri5k5oc6ufvj8vrjtpt7she1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
